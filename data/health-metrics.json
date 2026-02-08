@@ -1,0 +1,10 @@
+[
+  { "date": "2026-01-01", "sleepHours": 7, "calories": 2200 },
+  { "date": "2026-01-02", "sleepHours": 8, "calories": 2100 },
+  { "date": "2026-01-03", "sleepHours": 6.5, "calories": 2300 },
+  { "date": "2026-01-04", "sleepHours": 7.5, "calories": 2250 },
+  { "date": "2026-01-05", "sleepHours": 8, "calories": 2150 },
+  { "date": "2026-01-06", "sleepHours": 7, "calories": 2050 },
+  { "date": "2026-01-07", "sleepHours": 8.5, "calories": 2100 },
+  { "date": "2026-01-08", "sleepHours": 7.5, "calories": 2200 }
+]

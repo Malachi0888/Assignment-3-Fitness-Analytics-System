@@ -1,0 +1,15 @@
+{
+  "name": "fitness-data-processor",
+  "version": "1.0.0",
+  "main": "dataProcessor.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
